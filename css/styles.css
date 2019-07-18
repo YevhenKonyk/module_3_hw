@@ -1,0 +1,56 @@
+body {
+    font-family: "Playfair+Display", "Arial", sans-serif;
+    color: #626262;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.site-navigation {
+    font-size: 14px;
+    list-style: none;
+
+}
+
+.site-navigation a {
+    color: #626262;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.site-navigation a:visited {
+    color: #03a9f4;
+}
+
+.articles-list {
+    list-style: none;
+}
+
+.article-type {
+    color: #b4ad9e;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+}
+
+.article-title {
+    font-size: 30px;
+    line-height: 36px; 
+}
+
+.article-text {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.load-more-btn {
+    font-size:20px;
+    line-height: 24px;
+    display:inline-block;
+	background-color:transparent;
+	border:1px solid #626262;
+	cursor:pointer;
+	color:#626262;
+    text-decoration:none;
+	padding:16px 31px;
+}
